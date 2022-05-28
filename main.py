@@ -1,7 +1,7 @@
 from requests import Request, Session
 import json
 import tweepy
-
+#Consumer keys and access tokens for CoinMarketCap and Twitter APIs
 coinmarketcap_api_key = ""
 twitter_consumer_key = ""
 twitter_consumer_secret = ""
